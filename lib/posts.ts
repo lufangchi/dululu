@@ -2,6 +2,8 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
+export { formatDate } from "./date";
+
 const POSTS_DIR = path.join(process.cwd(), "content/blog");
 
 export type PostMeta = {
@@ -50,13 +52,6 @@ export function getPostBySlug(slug: string): Post {
     excerpt: data.excerpt as string,
     content,
   };
-}
-
-export function formatDate(dateStr: string): string {
-  const d = new Date(dateStr);
-  const mm = String(d.getMonth() + 1).padStart(2, "0");
-  const yy = String(d.getFullYear()).slice(-2);
-  return `${mm}.${yy}`;
 }
 
 export const TAG_COLORS: Record<string, { bg: string; fg: string }> = {

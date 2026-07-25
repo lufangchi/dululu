@@ -176,3 +176,37 @@ a {
 .back-link:hover {
   color: var(--ink);
 }
+
+.quest-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.chip {
+  font-family: var(--font-mono), monospace;
+  font-size: 11px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--rule);
+  background: transparent;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+
+.chip:hover {
+  color: var(--ink);
+}
+
+.chip[data-active="true"] {
+  border-color: transparent;
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.quest-empty {
+  font-size: 13px;
+  color: var(--ink-faint);
+  padding: 14px 0;
+}

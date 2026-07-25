@@ -39,6 +39,7 @@ export default function RootLayout({
               <div className="nav-links">
                 <a href="/blog">blog</a>
                 <a href="/projects">projects</a>
+                <a href="/quest">side quest</a>
                 <a href="https://linkedin.com" target="_blank" rel="noreferrer">
                   linkedin
                 </a>

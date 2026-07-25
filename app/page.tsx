@@ -7,10 +7,10 @@ export default function Home() {
   return (
     <>
       <div className="intro">
-        <h1>Data scientist, new to SF. Writing it down as I go.</h1>
+        <h1>Collecting questions along the way. Writing down as I go :)</h1>
         <p>
-          A running log of the job, the side builds, and the rest of life —
-          mostly so I remember, partly so someone else finds it useful.
+          A log of builds, books, lines that stuck, and whatever else seemed
+          worth writing down.
         </p>
       </div>
 
