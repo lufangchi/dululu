@@ -37,7 +37,6 @@ export default function RootLayout({
                 fangchi
               </a>
               <div className="nav-links">
-                <a href="/about">about</a>
                 <a href="/blog">blog</a>
                 <a href="/projects">projects</a>
                 <a href="/quest">side quest</a>

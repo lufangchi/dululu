@@ -8,10 +8,27 @@ export default function Home() {
     <>
       <div className="intro">
         <h1>Collecting questions along the way. Writing down as I go :)</h1>
+      </div>
+
+      <div className="post-body intro-bio">
+        <p>Hi, I&apos;m Fangchi.</p>
         <p>
-          Product data scientist in San Francisco, still working out how to
-          measure things that are hard to measure.{" "}
-          <a href="/about">more about me →</a>
+          I&apos;m a product data scientist based in San Francisco. I
+          currently work on analytics for safety and integrity systems,
+          where technology operates at scale while human judgment remains
+          essential. I&apos;m curious about how we measure and evaluate
+          complex autonomous systems, where defining success is part of the
+          optimization process.
+        </p>
+        <p>I grew up in Beijing and studied in Shenzhen and New York.</p>
+        <p>
+          Outside of work, I enjoy climbing without pushing grades, baking,
+          crocheting, walking through parks, meditation, and films by Wong
+          Kar-wai.
+        </p>
+        <p>
+          I keep this site as a practice ground, a place to collect things I
+          build, learn, and notice, and to practice living more mindfully.
         </p>
       </div>
 
