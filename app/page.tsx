@@ -9,8 +9,9 @@ export default function Home() {
       <div className="intro">
         <h1>Collecting questions along the way. Writing down as I go :)</h1>
         <p>
-          A log of builds, books, lines that stuck, and whatever else seemed
-          worth writing down.
+          Product data scientist in San Francisco, still working out how to
+          measure things that are hard to measure.{" "}
+          <a href="/about">more about me →</a>
         </p>
       </div>
 
