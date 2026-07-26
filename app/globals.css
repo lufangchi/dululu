@@ -94,6 +94,16 @@ a {
   margin: 0 0 36px;
 }
 
+.intro p a {
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.intro p a:hover {
+  color: var(--ink-soft);
+}
+
 .post-list {
   display: flex;
   flex-direction: column;
