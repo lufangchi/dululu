@@ -40,12 +40,7 @@ export default function RootLayout({
                 <a href="/blog">blog</a>
                 <a href="/projects">projects</a>
                 <a href="/quest">side quest</a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer">
-                  linkedin
-                </a>
-                <a href="https://github.com" target="_blank" rel="noreferrer">
-                  github
-                </a>
+                <a href="/contact">contact</a>
               </div>
             </nav>
             {children}
