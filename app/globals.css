@@ -206,3 +206,36 @@ a {
   color: var(--ink-faint);
   padding: 14px 0;
 }
+
+.contact-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.contact-tab {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 22px 14px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  font-family: var(--font-mono), monospace;
+  font-size: 13px;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.contact-tab:hover {
+  border-color: var(--ink-faint);
+  transform: translateY(-1px);
+}
+
+.contact-tab-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
