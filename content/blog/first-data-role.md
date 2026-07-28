@@ -1,7 +1,7 @@
 ---
 title: "What nobody tells you about your first data role"
 date: "2026-07-15"
-tag: "job"
+tag: "9 to 5"
 excerpt: "A few weeks in, some things I wish someone had said out loud before I started."
 ---
 

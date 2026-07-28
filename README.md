@@ -23,7 +23,7 @@ existing ones:
 ---
 title: "Your post title"
 date: "2026-08-01"
-tag: "job"        # job | life | build (or add your own — see below)
+tag: "9 to 5"     # 9 to 5 | life | build (or add your own — see below)
 excerpt: "One line shown in previews (not currently displayed, but good to have)."
 ---
 
