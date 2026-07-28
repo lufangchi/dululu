@@ -1,7 +1,7 @@
 ---
 title: "A side project I'm building to learn SQL faster"
 date: "2026-05-30"
-tag: "build"
+tag: "tinkering"
 excerpt: "Why I'm building a small tool instead of just grinding practice problems."
 ---
 

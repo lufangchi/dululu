@@ -1,7 +1,7 @@
 ---
 title: "Moving to SF alone, six weeks in"
 date: "2026-06-20"
-tag: "life"
+tag: "the rest"
 excerpt: "Notes on starting over in a new city, mostly for myself."
 ---
 

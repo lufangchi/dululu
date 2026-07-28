@@ -56,6 +56,6 @@ export function getPostBySlug(slug: string): Post {
 
 export const TAG_COLORS: Record<string, { bg: string; fg: string }> = {
   "9 to 5": { bg: "#E3E7DF", fg: "#3E4438" },
-  life: { bg: "#E9E3E7", fg: "#43333C" },
-  build: { bg: "#DFE6E9", fg: "#2E4650" },
+  tinkering: { bg: "#DFE6E9", fg: "#2E4650" },
+  "the rest": { bg: "#E9E3E7", fg: "#43333C" },
 };
