@@ -80,13 +80,13 @@ a {
 
 .intro {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 18px;
   margin-bottom: 24px;
 }
 
 .intro-avatar {
-  border-radius: 50%;
+  border-radius: 16px;
   object-fit: cover;
   flex-shrink: 0;
 }
