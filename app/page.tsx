@@ -11,8 +11,8 @@ export default function Home() {
         <Image
           src="/headshot.jpg"
           alt="Fangchi"
-          width={72}
-          height={72}
+          width={112}
+          height={112}
           className="intro-avatar"
           priority
         />
