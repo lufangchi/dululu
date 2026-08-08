@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { getAllPosts } from "@/lib/posts";
 import PostRow from "@/components/PostRow";
 
@@ -7,6 +8,14 @@ export default function Home() {
   return (
     <>
       <div className="intro">
+        <Image
+          src="/headshot.jpg"
+          alt="Fangchi"
+          width={72}
+          height={72}
+          className="intro-avatar"
+          priority
+        />
         <h1>Collecting questions and writing down as I go :)</h1>
       </div>
 
