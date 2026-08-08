@@ -51,6 +51,15 @@ function GithubIcon() {
   );
 }
 
+function XIcon() {
+  return (
+    <svg {...ICON_PROPS}>
+      <path d="m5 5 14 14" />
+      <path d="m19 5-14 14" />
+    </svg>
+  );
+}
+
 const CONTACTS: ContactLink[] = [
   {
     key: "email",
@@ -75,6 +84,14 @@ const CONTACTS: ContactLink[] = [
     external: true,
     colors: { bg: "#E9E3E7", fg: "#43333C" },
     icon: GithubIcon,
+  },
+  {
+    key: "twitter",
+    label: "twitter",
+    href: "https://x.com/fangchi_lu",
+    external: true,
+    colors: { bg: "#EDE3D8", fg: "#5B4632" },
+    icon: XIcon,
   },
 ];
 
