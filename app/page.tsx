@@ -13,6 +13,7 @@ export default function Home() {
           alt="Fangchi"
           width={112}
           height={112}
+          quality={100}
           className="intro-avatar"
           priority
         />
