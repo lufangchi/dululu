@@ -11,6 +11,7 @@ export default function QuestIndex() {
   return (
     <>
       <p className="section-title">side quest</p>
+      <p className="quest-note">still placeholders, come back later :)</p>
       <QuestList quests={quests} />
     </>
   );

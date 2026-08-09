@@ -147,6 +147,12 @@ a {
   margin: 0 0 16px;
 }
 
+.quest-note {
+  font-size: 13px;
+  color: var(--ink-faint);
+  margin: -8px 0 20px;
+}
+
 .post-body {
   max-width: 560px;
   font-size: 15px;

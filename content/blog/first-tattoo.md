@@ -1,6 +1,6 @@
 ---
 title: "Like Wave, Like Mountain: My First Tattoo"
-date: "2026-07-26"
+date: "2026-08-08"
 tag: "tinkering"
 excerpt: "Getting my first tattoo, and what it means to keep taking shape as I go."
 ---
