@@ -37,7 +37,7 @@ export default function Home() {
         </p>
         <p>
           I keep this site as a playground for collecting things I build,
-          learn, and notice—and as a place to practice living more
+          learn, and notice, and as a place to practice living more
           mindfully.
         </p>
       </div>
