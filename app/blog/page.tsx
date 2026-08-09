@@ -10,6 +10,9 @@ export default function BlogIndex() {
 
   return (
     <>
+      <h1 className="page-title">
+        Collecting questions and writing down as I go :)
+      </h1>
       <p className="section-title">all posts</p>
       <div className="post-list">
         {posts.map((post) => (

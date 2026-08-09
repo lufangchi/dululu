@@ -17,28 +17,28 @@ export default function Home() {
           className="intro-avatar"
           priority
         />
-        <h1>Collecting questions and writing down as I go :)</h1>
       </div>
 
       <div className="post-body intro-bio">
         <p>Hi, I&apos;m Fangchi.</p>
         <p>
           I&apos;m a product data scientist based in San Francisco. I
-          currently work on analytics for safety and integrity systems,
-          where tech operates at scale while human judgment remains
-          essential. I&apos;m curious about how we measure and evaluate
-          complex autonomous systems broadly, where defining success is part
-          of the optimization process.
+          currently work on analytics across safety and integrity products
+          and policies, where decisions about people are shaped by both
+          human judgment and technology at scale. I&apos;m curious about how
+          we measure and evaluate complex systems, and how our definition of
+          success shapes what we optimize for.
         </p>
         <p>
           I grew up in Beijing and studied in Shenzhen and New York. Outside
-          of work, I enjoy climbing without pushing grades, baking,
+          of work, I enjoy climbing without chasing grades, baking,
           crocheting, walking through parks, meditation, and films by Wong
           Kar-wai.
         </p>
         <p>
-          I keep this site as a practice ground for collecting things I
-          build, learn, and notice, and to practice living more mindfully.
+          I keep this site as a playground for collecting things I build,
+          learn, and notice—and as a place to practice living more
+          mindfully.
         </p>
       </div>
 
