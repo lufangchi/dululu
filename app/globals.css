@@ -159,6 +159,13 @@ a {
   margin: 36px 0 12px;
 }
 
+.post-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 24px 0;
+}
+
 .post-header {
   margin-bottom: 28px;
 }
